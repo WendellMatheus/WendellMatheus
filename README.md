@@ -1,6 +1,6 @@
 ### < Hello, World /> 👋
 
-🌱 I’m currently learning Front-end (react)
+🌱 I’m currently learning Front-end (React)(Angular)
 
 <!--
 **WendellMatheus/WendellMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
