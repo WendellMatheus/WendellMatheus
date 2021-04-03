@@ -1,7 +1,7 @@
 ### < Hello, World /> 👋
 
 🌱 I’m currently learning Front-end (React)(Angular)
-[! [WendellMatheus github stats](https://github-readme-stats.vercel.app/api/username=WendellMatheus&show_icons=true&count_private=true&theme=radical)
+![[WendellMatheus github stats](https://github-readme-stats.vercel.app/api/username=WendellMatheus&show_icons=true&count_private=true&theme=radical)
 
 <!--
 **WendellMatheus/WendellMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
