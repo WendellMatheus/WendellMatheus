@@ -2,7 +2,7 @@
 🌱 I’m currently learning Front-end (React)(Angular) 
 
 
-[![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellMatheus&layout=compact)](https://github.com/WendellMatheus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=WendellMatheus&layout=compact)](https://github.com/WendellMatheus/github-readme-stats)
 
 
 
