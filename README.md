@@ -1,6 +1,6 @@
 ### < Hello, World! /> 👋
 ## I'm Wendell Matheus
-- I live in Brazil , northeast :cactus::palm_tree:
+- I live in Brazil , Northeast :cactus::palm_tree:
 - I have been working on Indra Company as Junior Systems Engineer :computer:
 - I’m currently learning Front-end - Angular :trophy::dart:
 <br>
