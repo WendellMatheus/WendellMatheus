@@ -1,4 +1,6 @@
-### < Hello, World /> 👋
+### < Hello World /> 👋
+## I'm Wendell Matheus
+- I live in :brazil: , northeast :sunglasses::sunrise:
 🌱 I’m currently learning Front-end (React)(Angular) 
 <br>
 ![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellMatheus&show_icons=true&theme=highcontrast&hide=issues)
