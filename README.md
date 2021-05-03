@@ -2,7 +2,7 @@
 ## I'm Wendell Matheus
 - I live in Brazil , Northeast :cactus::palm_tree:
 - I have been working on Indra Company as Junior Systems Engineer :computer:
-- I’m currently learning Front-end - Angular React :trophy::dart:
+- I’m currently learning Front-end - Angular - React :trophy::dart:
 <br>
 
 ![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellMatheus&show_icons=true&theme=highcontrast&hide=issues)
