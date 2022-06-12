@@ -1,6 +1,6 @@
 ### < Hello, World! /> 👋
 ## My name is Wendell Matheus, 23 years, Front-end Developer
-- I live in Brazil , Northeast :cactus::palm_tree:
+- I live in the northeast of Brazil :cactus::palm_tree:
 - #OpenToWork :email: 
 - I have been working on Indra Company as Junior Systems Engineer :computer:
 - Main hard skills: Angular | Ionic | React.js | TypeScript | JavaScript :trophy::dart:
