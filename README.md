@@ -7,6 +7,8 @@
 
 ![Wendell's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellMatheus&show_icons=true&theme=highcontrast&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellMatheus&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Snake animation](https://github.com/WendellMatheus/blob/output/github-contribution-grid-snake.svg)
 <!--
 **WendellMatheus/WendellMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
