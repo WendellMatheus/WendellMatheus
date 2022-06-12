@@ -1,5 +1,5 @@
 ### < Hello, World! /> 👋
-## My name is Wendel Matheus, I'm 23 years old, I'm a front-end developer
+## My name is Wendell Matheus, 23 years, Front-end Developer
 - I live in Brazil , Northeast :cactus::palm_tree:
 - #OpenToWork :email: 
 - I have been working on Indra Company as Junior Systems Engineer :computer:
