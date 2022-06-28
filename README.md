@@ -3,7 +3,7 @@
 - I live in the northeast of Brazil :cactus::palm_tree:
 - #OpenToWork :email: 
 - I have been working on Indra Company as Junior Systems Engineer :computer:
-- Main hard skills: Angular | Ionic | React.js | TypeScript | JavaScript :trophy::dart:
+- Main hard skills: Angular | Ionic | React.js | JavaScript | TypeScript :trophy::dart:
 <br>
 
 <div align="center">
